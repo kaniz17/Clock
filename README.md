@@ -1,3 +1,3 @@
 # Clock
 
-[my website](https://github.com/kaniz17/Clock.git)
+[my website]([Clock](https://kaniz17.github.io/Clock/)
