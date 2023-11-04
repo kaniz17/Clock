@@ -1,3 +1,2 @@
 # Clock
-[Clock](https://kaniz17.github.io/Clock/)
-
+Analog clock with html, css, javascript 
