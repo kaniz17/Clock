@@ -1,3 +1,3 @@
 # Clock
 
-[my website](file:///C:/Users/kaniz/Downloads/clock/index.html)
+[my website](https://github.com/kaniz17/Clock.git)
