@@ -1,3 +1,3 @@
 # Clock
 
-[my website](https://clock)
+[my website](file:///C:/Users/kaniz/Downloads/clock/index.html)
